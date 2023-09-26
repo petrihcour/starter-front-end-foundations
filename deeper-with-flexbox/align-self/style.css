@@ -60,7 +60,7 @@ main h2 {
 }
 
 .self-center {
-  align-self: center;
+  /* align-self: center; */
 }
 
 /* Font-Awesome Icon */
